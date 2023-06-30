@@ -21,11 +21,6 @@ Experience
 ⚙️
 Skills
 <br><br>
-
-
-
-
-
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -35,11 +30,8 @@ Skills
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <br>
-
-<br>
 <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-
 <br>
 
 🛠
