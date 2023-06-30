@@ -1,6 +1,7 @@
-### Hi there
+### Eddie Kim👋
 <image src="https://github.com/eddkim/eddkim/assets/93297204/fea6d7d9-6ac1-4524-89d6-fabe24573c3d" width="24px" height="24px" alt="working"/>
-👋
+<br>
+
 
 <!--
 **eddkim/eddkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
