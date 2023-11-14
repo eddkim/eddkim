@@ -11,9 +11,11 @@ Experience
 #### APSTinc (2023-03 ~ Current)
  - Web/App developer
 
+<!--
+
 #### 주식회사 쇼엠 (2022-09 ~ 2023-02)
  - Backend-developer
-
+!-->
 ---
 
 <br>
