@@ -47,7 +47,7 @@ Skill tools
 <img src="https://img.shields.io/badge/mobx-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+
 
 
 
